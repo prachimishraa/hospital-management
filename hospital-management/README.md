@@ -49,13 +49,13 @@ hospital-management/
 
 ## 🚀 How to Run
 
-### Step 1 — Open the project in VS Code
+### Step 1 - Open the project in VS Code
 
 ```
 File → Open Folder → hospital-management/
 ```
 
-### Step 2 — Start the Backend
+### Step 2 - Start the Backend
 
 Open a **new terminal** in VS Code:
 
@@ -71,7 +71,7 @@ You should see:
 🏥 Hospital Management Server running on http://localhost:5000
 ```
 
-### Step 3 — Start the Frontend
+### Step 3 - Start the Frontend
 
 Open **another terminal** in VS Code:
 
